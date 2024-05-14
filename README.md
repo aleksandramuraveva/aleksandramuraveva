@@ -13,7 +13,7 @@
 
 </br>
 
-<h2 align="center">:envelope:Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ</h2>
+<h2 align="center">:envelope:Cᴏɴtact Mᴇ</h2>
 <div align="center"> 
 <a href="mailto:aleksmuraveva.dev@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=aleksmuraveva.dev@gmail.com mail style="margin-bottom: 5px;" />
