@@ -8,7 +8,7 @@
 
 <h2 align="center">:crossed_swords:Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=vue,js,html,css,typescript,php,mysql,vite,git,sublime,gulp,figma,scss&perline=7"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=react,js,html,css,typescript,php,mysql,vue,vite,git,sublime,gulp,figma,scss&perline=7"  />
 </p>
 
 </br>
