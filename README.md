@@ -11,7 +11,7 @@
 </br>
 <h2 align="center">:crossed_swords:Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgresql,js,typescript,react,redux,mui,html,css,styledcomponents,gitlab,docker,nginx,php,webpack,gulp,vue,vite,firebase,git,postman,sublime&perline=6" />
+<img width="500px" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgresql,js,typescript,react,redux,mui,html,css,styledcomponents,gitlab,docker,nginx,php,webpack,gulp,vue,vite,firebase,git,postman,sublime&perline=7" />
 </p>
 </br>
 
