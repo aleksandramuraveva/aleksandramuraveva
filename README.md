@@ -5,7 +5,7 @@
 
 <div align="center">
     <h2> :computer: About Me</h2>
-    <p>I'm a full-stack developer with a strong focus on building reliable, accessible, and engaging web applications. I work with modern tools like React, Node.js, MongoDB, and WebSockets to create user-focused features and scalable backends. I enjoy solving real-world problems, learning new technologies, and continuously improving both code and product quality. :woman_technologist: </p>
+    <p>I'm a software engineer with a strong focus on building reliable, accessible, and engaging web applications. I work with modern tools like React, Node.js, MongoDB, and WebSockets to create user-focused features and scalable backends. I enjoy solving real-world problems, learning new technologies, and continuously improving both code and product quality. :woman_technologist: </p>
     <p>Visit my <a href="https://aleksmuraveva.web.app" target="_blank">PORTFOLIO</a></p>
 </div>
 </br>
